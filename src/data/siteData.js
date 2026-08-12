@@ -26,7 +26,7 @@ export const projects = [
     technologies: ["React.js", "Tailwind CSS", "JavaScript"],
     image: "/projects/portfolio.jpg",
     github: "https://github.com/pandavyug/My-Portfolio-Website",
-    live: "",
+    live: "https://yug-pandav-portfolio.vercel.app/",
   },
   {
     name: "Talksy Chat App",
