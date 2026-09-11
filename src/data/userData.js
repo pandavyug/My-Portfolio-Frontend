@@ -2,7 +2,7 @@ import { useEffect } from "react";
 
 //GET Api
     export async function getData(){
-        const response = await fetch("http://localhost:3000/userdata");
+        const response = await fetch("https://my-portfolio-backend-sandy.vercel.app/userdata");
         const result = await response.json();
         console.log("Data fetched:", result);
         return result;
@@ -18,7 +18,7 @@ export function UserData({ data, submitted }) {
     //POST Api
     async function postData() {
       try {
-        const response = await fetch("http://localhost:3000/userdata", {
+        const response = await fetch("https://my-portfolio-backend-sandy.vercel.app/userdata", {
           method: "POST",
           headers: {
             "Content-Type": "application/json",
