@@ -1,6 +1,6 @@
 export const personal = {
   name: "Yug Pandav",
-  role: "BCA Student | Web Developer",
+  role: "BCA Student | MERN Stack Developer",
   email: "pandavyug7@gmail.com",
   location: "Surat, Gujarat, India",
   github: "https://github.com/pandavyug",
@@ -14,7 +14,7 @@ export const projects = [
     name: "Netflix Clone",
     description:
       "A responsive Netflix-inspired streaming platform UI built using modern web technologies.",
-    technologies: ["React.js", "JavaScript", "HTML", "CSS", "Tailwind CSS"],
+    technologies: ["React.js", "JavaScript", "HTML", "Tailwind CSS"],
     image: "/projects/netflix.jpg",
     github: "https://github.com/pandavyug/Netflix-Clone",
     live: "https://clone-project-made-by-yug.vercel.app/",
@@ -23,10 +23,10 @@ export const projects = [
     name: "My Portfolio Website",
     description:
       "A responsive portfolio website built using modern web technologies.",
-    technologies: ["React.js", "Tailwind CSS", "JavaScript"],
+    technologies: ["React.js", "Tailwind CSS", "Node.js", "Express.js", "MongoDB"],
     image: "/projects/portfolio.jpg",
-    github: "https://github.com/pandavyug/My-Portfolio-Website",
-    live: "https://yug-pandav-portfolio.vercel.app/",
+    github: "https://github.com/pandavyug/My-Portfolio-Frontend",
+    live: "https://pandav-yug.vercel.app/",
   },
   {
     name: "Talksy Chat App",
@@ -57,12 +57,12 @@ export const skillGroups = [
   {
     title: "Programming Languages",
     icon: "Braces",
-    skills: ["Java", "Python", "C", "C++", "PHP","Node.js"],
+    skills: ["Java", "Python", "C", "C++", "PHP","Node.js", "Express.js"],
   },
   {
     title: "Database Management",
     icon: "Database",
-    skills: ["MySQL", "SQLite"],
+    skills: ["MySQL", "SQLite", "MongoDB"],
   },
   
   {

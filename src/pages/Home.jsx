@@ -35,7 +35,7 @@ export default function Home() {
                 </a>
                 <a
                   className="secondary-btn"
-                  href="/My_Resume.pdf"
+                  href="/My Resume.pdf"
                   target="_blank"
                   rel="noreferrer"
                 >
