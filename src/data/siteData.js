@@ -11,13 +11,13 @@ export const personal = {
 
 export const projects = [
   {
-    name: "Netflix Clone",
+    name: "Progressa Task Manager",
     description:
-      "A responsive Netflix-inspired streaming platform UI built using modern web technologies.",
-    technologies: ["React.js", "JavaScript", "HTML", "Tailwind CSS"],
-    image: "/projects/netflix.jpg",
-    github: "https://github.com/pandavyug/Netflix-Clone",
-    live: "https://clone-project-made-by-yug.vercel.app/",
+      "A real-time task management application designed for simple, efficient task tracking and collaboration.",
+    technologies: ["React.js", "Node.js", "Express.js", "MongoDB"],
+    image: "/projects/Progressa.png",
+    github: "https://github.com/pandavyug/Progressa",
+    live: "https://progressa-task-management.vercel.app",
   },
   {
     name: "My Portfolio Website",
@@ -29,13 +29,13 @@ export const projects = [
     live: "https://pandav-yug.vercel.app/",
   },
   {
-    name: "Progressa Task Manager",
+    name: "Netflix Clone",
     description:
-      "A real-time task management application designed for simple, efficient task tracking and collaboration.",
-    technologies: ["React.js", "Node.js", "Express.js", "MongoDB"],
-    image: "/projects/progressa.png",
-    github: "https://github.com/pandavyug/Progressa",
-    live: "https://progressa-task-management.vercel.app",
+      "A responsive Netflix-inspired streaming platform UI built using modern web technologies.",
+    technologies: ["React.js", "JavaScript", "HTML", "Tailwind CSS"],
+    image: "/projects/netflix.jpg",
+    github: "https://github.com/pandavyug/Netflix-Clone",
+    live: "https://clone-project-made-by-yug.vercel.app/",
   },
   {
     name: "Amazon UI Clone",
