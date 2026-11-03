@@ -29,13 +29,13 @@ export const projects = [
     live: "https://pandav-yug.vercel.app/",
   },
   {
-    name: "Talksy Chat App",
+    name: "Progressa Task Manager",
     description:
-      "A real-time chat application designed for simple, responsive communication between users.",
-    technologies: ["HTML", "CSS", "JavaScript", "Java Servlets", "MySQL", "Tomcat"],
-    image: "/projects/talksy.jpg",
-    github: "https://github.com/pandavyug/talksy-chat-app",
-    live: "",
+      "A real-time task management application designed for simple, efficient task tracking and collaboration.",
+    technologies: ["React.js", "Node.js", "Express.js", "MongoDB"],
+    image: "/projects/progressa.png",
+    github: "https://github.com/pandavyug/Progressa",
+    live: "https://progressa-task-management.vercel.app",
   },
   {
     name: "Amazon UI Clone",
